@@ -6,4 +6,5 @@ There is a prompt asking the user if they want uppercase, lowercase and random c
 #URL 
 
 GitHub repo URL: https://github.com/tpham912/Random-Password-Generator-Project
+
 Deployed URL: https://tpham912.github.io/Random-Password-Generator-Project/
