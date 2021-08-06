@@ -9,4 +9,4 @@ GitHub repo URL: https://github.com/tpham912/Random-Password-Generator-Project
 
 Deployed URL: https://tpham912.github.io/Random-Password-Generator-Project/
 
-<img src="Random-Password-Generator-Project/tpham912.github.io_Random-Password-Generator-Project_.png" alt="Web Layout">
+<img src="./Random-Password-Generator-Project/tpham912.github.io_Random-Password-Generator-Project_.png" alt="Web Layout">
