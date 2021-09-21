@@ -23,7 +23,7 @@ There is a prompt asking the user if they want uppercase, lowercase and random c
 
 # Appearance
 
-<img src="./Random-Password-Generator-Project/tpham912.github.io_Random-Password-Generator-Project_.png" alt="Web Layout">
+<img src="Assets/03-javascript-homework-demo.png" alt="Web Layout">
 
 # Links
 
