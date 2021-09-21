@@ -17,9 +17,9 @@ There is a prompt asking the user if they want uppercase, lowercase and random c
 
 # Usage
 
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[Javascript](https://www.javascript.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://www.javascript.com/)
 
 # Appearance
 
@@ -27,13 +27,13 @@ There is a prompt asking the user if they want uppercase, lowercase and random c
 
 # Links
 
-GitHub repo URL: https://github.com/tpham912/Random-Password-Generator-Project
+- [GitHub repo URL](https://github.com/tpham912/Random-Password-Generator-Project)
 
-Deployed URL: https://tpham912.github.io/Random-Password-Generator-Project/
+- [Deployed URL](https://tpham912.github.io/Random-Password-Generator-Project/)
 
 # Contributor 
 
-[Tina Pham ](https://github.com/tpham912)
+[Tina Pham](https://github.com/tpham912)
 
 # License
 
